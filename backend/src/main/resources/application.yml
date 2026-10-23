@@ -1,0 +1,36 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: music-encyclopedia
+  datasource:
+    # Override via environment variables in production.
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/music_encyclopedia}
+    username: ${DB_USERNAME:encyclopedia}
+    password: ${DB_PASSWORD:encyclopedia}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      # 'update' auto-creates/updates tables from the entities for easy local dev.
+      # Use 'validate' + Flyway/Liquibase migrations for production.
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    open-in-view: false
+    show-sql: false
+
+app:
+  # CORS origin of the React dev server.
+  cors-allowed-origins: ${CORS_ORIGINS:http://localhost:5173}
+  jwt:
+    # CHANGE THIS in production. Must be a Base64-encoded key of >= 256 bits.
+    secret: ${JWT_SECRET:bXVzaWMtZ2VucmUtZW5jeWNsb3BlZGlhLXN1cGVyLXNlY3JldC1rZXktY2hhbmdlLW1l}
+    # Token lifetime in milliseconds (default 24h).
+    expiration-ms: ${JWT_EXPIRATION_MS:86400000}
+
+logging:
+  level:
+    org.hibernate.SQL: warn

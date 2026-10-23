@@ -1,0 +1,190 @@
+[
+  {
+    "slug": "jazz",
+    "nameUk": "Джаз",
+    "nameEn": "Jazz",
+    "infobox": [
+      { "key": "stylisticOrigins", "uk": "Блюз, регтайм, спірічуелс, духові оркестри", "en": "Blues, ragtime, spirituals, brass band music" },
+      { "key": "culturalOrigins", "uk": "Кінець XIX — початок XX ст., Новий Орлеан, США", "en": "Late 19th – early 20th century, New Orleans, USA" },
+      { "key": "typicalInstruments", "uk": "Саксофон, труба, тромбон, фортепіано, контрабас, ударні", "en": "Saxophone, trumpet, trombone, piano, double bass, drums" },
+      { "key": "derivativeForms", "uk": "Бібоп, кул-джаз, фрі-джаз, джаз-ф’южн", "en": "Bebop, cool jazz, free jazz, jazz fusion" },
+      { "key": "popularity", "uk": "1920-ті — 1950-ті («доба джазу»)", "en": "1920s – 1950s (the Jazz Age)" }
+    ],
+    "content": {
+      "uk": {
+        "summary": "**Джаз** — музичний жанр, що зародився наприкінці XIX — на початку XX століття серед афроамериканських громад Нового Орлеана. Він поєднав африканські та європейські музичні традиції й відомий складними ритмами, свінгом, блюзовими нотами та значною роллю **імпровізації**.",
+        "sections": [
+          { "id": "history", "title": "Історія", "body": "Джаз виник у Новому Орлеані на перетині блюзу, регтайму та маршів духових оркестрів. У 1920-х роках жанр поширився до Чикаго та Нью-Йорка, давши початок «добі джазу»." },
+          { "id": "characteristics", "title": "Характерні риси", "body": "Ключовими ознаками джазу є **імпровізація**, свінговий ритм, синкопи та використання блюзового звукоряду." },
+          { "id": "styles", "title": "Основні стилі", "body": "- **Диксиленд** — ранній новоорлеанський джаз\n- **Свінг** — танцювальний джаз 1930-х\n- **Бібоп** — швидкий віртуозний стиль 1940-х\n- **Фрі-джаз** — авангардний напрям 1960-х" }
+        ],
+        "references": [
+          "Gioia, Ted. «The History of Jazz». Oxford University Press, 2011.",
+          "Берендт, Йоахім-Ернст. «Джаз: від Нового Орлеана до джаз-року»."
+        ]
+      },
+      "en": {
+        "summary": "**Jazz** is a music genre that originated in the late 19th and early 20th centuries among African-American communities in New Orleans. It blends African and European musical traditions and is known for complex rhythms, swing, blue notes, and a central role for **improvisation**.",
+        "sections": [
+          { "id": "history", "title": "History", "body": "Jazz emerged in New Orleans at the crossroads of blues, ragtime, and brass-band marches. In the 1920s it spread to Chicago and New York, launching the Jazz Age." },
+          { "id": "characteristics", "title": "Characteristics", "body": "The defining features of jazz are **improvisation**, swing feel, syncopation, and use of the blues scale." },
+          { "id": "styles", "title": "Major styles", "body": "- **Dixieland** — early New Orleans jazz\n- **Swing** — danceable big-band jazz of the 1930s\n- **Bebop** — fast, virtuosic style of the 1940s\n- **Free jazz** — the avant-garde direction of the 1960s" }
+        ],
+        "references": [
+          "Gioia, Ted. \"The History of Jazz\". Oxford University Press, 2011.",
+          "Berendt, Joachim-Ernst. \"The Jazz Book\"."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "rock",
+    "nameUk": "Рок",
+    "nameEn": "Rock",
+    "infobox": [
+      { "key": "stylisticOrigins", "uk": "Рок-н-рол, блюз, кантрі, фолк", "en": "Rock and roll, blues, country, folk" },
+      { "key": "culturalOrigins", "uk": "Середина 1960-х, США та Велика Британія", "en": "Mid-1960s, United States and United Kingdom" },
+      { "key": "typicalInstruments", "uk": "Електрогітара, бас-гітара, ударні, вокал", "en": "Electric guitar, bass guitar, drums, vocals" },
+      { "key": "subgenres", "uk": "Хард-рок, панк, метал, альтернативний рок", "en": "Hard rock, punk, metal, alternative rock" },
+      { "key": "popularity", "uk": "1960-ті — 1990-ті", "en": "1960s – 1990s" }
+    ],
+    "content": {
+      "uk": {
+        "summary": "**Рок** (або рок-музика) — широкий жанр популярної музики, що сформувався в середині 1960-х років із рок-н-ролу. Зазвичай будується навколо електрогітари, бас-гітари та ударних.",
+        "sections": [
+          { "id": "origins", "title": "Витоки", "body": "Рок виріс із рок-н-ролу 1950-х, увібравши елементи блюзу, кантрі та фолку. Гурти на кшталт The Beatles та The Rolling Stones розширили межі жанру." },
+          { "id": "subgenres", "title": "Піджанри", "body": "Рок дуже різноманітний: **хард-рок** і **хеві-метал** наголошують на потужності, **панк-рок** — на простоті та енергії." }
+        ],
+        "references": ["«The Rolling Stone Encyclopedia of Rock & Roll»."]
+      },
+      "en": {
+        "summary": "**Rock** (or rock music) is a broad genre of popular music that took shape in the mid-1960s out of rock and roll. It is usually built around the electric guitar, bass guitar, and drums.",
+        "sections": [
+          { "id": "origins", "title": "Origins", "body": "Rock grew out of 1950s rock and roll, absorbing elements of blues, country, and folk. Bands such as The Beatles and The Rolling Stones expanded the genre’s boundaries." },
+          { "id": "subgenres", "title": "Subgenres", "body": "Rock is highly diverse: **hard rock** and **heavy metal** emphasise power, while **punk rock** stresses simplicity and energy." }
+        ],
+        "references": ["\"The Rolling Stone Encyclopedia of Rock & Roll\"."]
+      }
+    }
+  },
+  {
+    "slug": "hip-hop",
+    "nameUk": "Хіп-хоп",
+    "nameEn": "Hip hop",
+    "infobox": [
+      { "key": "stylisticOrigins", "uk": "Фанк, диско, даб, ямайський тостинг", "en": "Funk, disco, dub, Jamaican toasting" },
+      { "key": "culturalOrigins", "uk": "1970-ті, Бронкс, Нью-Йорк", "en": "1970s, The Bronx, New York City" },
+      { "key": "typicalInstruments", "uk": "Семплер, драм-машина, тернтейбли, вокал (реп)", "en": "Sampler, drum machine, turntables, vocals (rap)" },
+      { "key": "subgenres", "uk": "Треп, джі-фанк, бумбеп, кранк", "en": "Trap, G-funk, boom bap, crunk" },
+      { "key": "popularity", "uk": "1990-ті — дотепер", "en": "1990s – present" }
+    ],
+    "content": {
+      "uk": {
+        "summary": "**Хіп-хоп** — музичний жанр і культурний рух, що виник у 1970-х роках серед афроамериканської та латиноамериканської молоді Бронксу. Складається з чотирьох елементів: **реп**, **діджеїнг**, **брейкданс** і **графіті**.",
+        "sections": [
+          { "id": "elements", "title": "Елементи", "body": "Культура хіп-хопу традиційно охоплює чотири елементи: читання реп-текстів (MCing), діджеїнг, танець (брейкінг) та графіті." },
+          { "id": "sound", "title": "Звучання", "body": "Музично хіп-хоп будується на ритмічних біт-петлях, часто створених за допомогою **семплів** та драм-машин." }
+        ],
+        "references": ["Chang, Jeff. «Can’t Stop Won’t Stop»."]
+      },
+      "en": {
+        "summary": "**Hip hop** is a music genre and cultural movement that emerged in the 1970s among African-American and Latino youth in the Bronx. It comprises four elements: **rapping**, **DJing**, **breakdancing**, and **graffiti**.",
+        "sections": [
+          { "id": "elements", "title": "Elements", "body": "Hip hop culture traditionally encompasses four elements: rapping (MCing), DJing, dance (breaking), and graffiti." },
+          { "id": "sound", "title": "Sound", "body": "Musically, hip hop is built on rhythmic beat loops, often created with **samples** and drum machines." }
+        ],
+        "references": ["Chang, Jeff. \"Can’t Stop Won’t Stop\"."]
+      }
+    }
+  },
+  {
+    "slug": "techno",
+    "nameUk": "Техно",
+    "nameEn": "Techno",
+    "infobox": [
+      { "key": "stylisticOrigins", "uk": "Електро, фанк, синті-поп, краут-рок", "en": "Electro, funk, synth-pop, krautrock" },
+      { "key": "culturalOrigins", "uk": "Середина 1980-х, Детройт, США", "en": "Mid-1980s, Detroit, USA" },
+      { "key": "typicalInstruments", "uk": "Синтезатор, драм-машина, семплер, секвенсор", "en": "Synthesizer, drum machine, sampler, sequencer" },
+      { "key": "subgenres", "uk": "Детройт-техно, мінімал, ейсід, індастріал-техно", "en": "Detroit techno, minimal, acid, industrial techno" },
+      { "key": "popularity", "uk": "1990-ті — дотепер", "en": "1990s – present" }
+    ],
+    "content": {
+      "uk": {
+        "summary": "**Техно** — жанр електронної танцювальної музики, що виник у Детройті в середині 1980-х років. Характеризується повторюваним ритмом «чотири на підлозі» та синтетичним звучанням.",
+        "sections": [
+          { "id": "detroit", "title": "Детройтське коріння", "body": "Техно створили діджеї з Детройта, серед яких «Белвілльське тріо», поєднавши електронну музику з футуристичною естетикою." },
+          { "id": "sound", "title": "Звучання", "body": "Техно зазвичай має темп 120–150 ударів на хвилину та механічний ритм драм-машини (наприклад, Roland TR-909)." }
+        ],
+        "references": ["Sicko, Dan. «Techno Rebels»."]
+      },
+      "en": {
+        "summary": "**Techno** is a genre of electronic dance music that emerged in Detroit in the mid-1980s. It is characterised by a repetitive four-on-the-floor beat and a synthetic sound.",
+        "sections": [
+          { "id": "detroit", "title": "Detroit roots", "body": "Techno was created by Detroit DJs, including the Belleville Three, who fused electronic music with a futuristic aesthetic." },
+          { "id": "sound", "title": "Sound", "body": "Techno typically runs at 120–150 beats per minute with a mechanical drum-machine groove (e.g. the Roland TR-909)." }
+        ],
+        "references": ["Sicko, Dan. \"Techno Rebels\"."]
+      }
+    }
+  },
+  {
+    "slug": "blues",
+    "nameUk": "Блюз",
+    "nameEn": "Blues",
+    "infobox": [
+      { "key": "stylisticOrigins", "uk": "Робочі пісні, спірічуелс, африканська музика", "en": "Work songs, spirituals, African music" },
+      { "key": "culturalOrigins", "uk": "Кінець XIX ст., Дельта Міссісіпі, США", "en": "Late 19th century, Mississippi Delta, USA" },
+      { "key": "typicalInstruments", "uk": "Гітара, губна гармоніка, фортепіано, вокал", "en": "Guitar, harmonica, piano, vocals" },
+      { "key": "derivativeForms", "uk": "Ритм-енд-блюз, рок-н-рол, джаз", "en": "Rhythm and blues, rock and roll, jazz" },
+      { "key": "popularity", "uk": "1920-ті — 1960-ті", "en": "1920s – 1960s" }
+    ],
+    "content": {
+      "uk": {
+        "summary": "**Блюз** — музичний жанр і форма, що виникли серед афроамериканців на Глибокому Півдні США наприкінці XIX століття. Характеризується блюзовим звукорядом та дванадцятитактовою структурою.",
+        "sections": [
+          { "id": "form", "title": "Форма", "body": "Класичний блюз часто використовує **дванадцятитактову** схему та блюзовий звукоряд із «блакитними нотами»." },
+          { "id": "influence", "title": "Вплив", "body": "Блюз став фундаментом для джазу, ритм-енд-блюзу та рок-н-ролу." }
+        ],
+        "references": ["Oliver, Paul. «The Story of the Blues»."]
+      },
+      "en": {
+        "summary": "**Blues** is a music genre and form that originated among African Americans in the Deep South of the United States in the late 19th century. It is characterised by the blues scale and a twelve-bar structure.",
+        "sections": [
+          { "id": "form", "title": "Form", "body": "Classic blues often uses a **twelve-bar** progression and the blues scale with blue notes." },
+          { "id": "influence", "title": "Influence", "body": "Blues became the foundation for jazz, rhythm and blues, and rock and roll." }
+        ],
+        "references": ["Oliver, Paul. \"The Story of the Blues\"."]
+      }
+    }
+  },
+  {
+    "slug": "reggae",
+    "nameUk": "Реггі",
+    "nameEn": "Reggae",
+    "infobox": [
+      { "key": "stylisticOrigins", "uk": "Ска, рокстеді, ритм-енд-блюз", "en": "Ska, rocksteady, rhythm and blues" },
+      { "key": "culturalOrigins", "uk": "Кінець 1960-х, Ямайка", "en": "Late 1960s, Jamaica" },
+      { "key": "typicalInstruments", "uk": "Бас-гітара, ударні, гітара, клавішні", "en": "Bass guitar, drums, guitar, keyboards" },
+      { "key": "derivativeForms", "uk": "Даб, денсхол, реггетон", "en": "Dub, dancehall, reggaeton" },
+      { "key": "popularity", "uk": "1970-ті — дотепер", "en": "1970s – present" }
+    ],
+    "content": {
+      "uk": {
+        "summary": "**Реггі** — музичний жанр, що виник на Ямайці наприкінці 1960-х років. Відомий характерним акцентом на слабку долю («скенк»), глибоким басом та зв’язком із рухом растафарі.",
+        "sections": [
+          { "id": "rhythm", "title": "Ритм", "body": "Реггі впізнаване за «скенком» — приглушеним акордом на слабкі долі, а також за провідною роллю басової партії." },
+          { "id": "culture", "title": "Культура", "body": "Жанр тісно пов’язаний із культурою растафарі та постаттю Боба Марлі." }
+        ],
+        "references": ["Bradley, Lloyd. «Bass Culture»."]
+      },
+      "en": {
+        "summary": "**Reggae** is a music genre that originated in Jamaica in the late 1960s. It is known for its offbeat accent (the skank), deep bass, and association with the Rastafari movement.",
+        "sections": [
+          { "id": "rhythm", "title": "Rhythm", "body": "Reggae is recognisable by the skank — a muted chord played on the offbeats — and by the leading role of the bass line." },
+          { "id": "culture", "title": "Culture", "body": "The genre is closely tied to Rastafari culture and to Bob Marley." }
+        ],
+        "references": ["Bradley, Lloyd. \"Bass Culture\"."]
+      }
+    }
+  }
+]
